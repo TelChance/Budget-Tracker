@@ -1,7 +1,7 @@
 # Budget-Tracker
 
 ## Discription
-- Budget Tracker is a web application that tracks financial transactions whether you are making a deposite or withdraw. This app will also allow you to keep using it when it is offline!
+Budget Tracker is a web application that tracks financial transactions whether you are making a deposite or withdraw. This app will also allow you to keep using it when it is offline!
 
 Here is the github url: https://github.com/TelChance/Budget-Tracker
 
